@@ -1,0 +1,124 @@
+main{
+    padding-top: 100px;
+}
+
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 60%;
+ }
+
+#imgv{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 500px;
+ }
+ #imgv2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    height: 420px;
+ }
+
+#cont{
+    padding-top: 250px;
+}
+
+ #mainT{
+    margin-bottom:60px;
+    background-color: rgb(0, 2, 110);
+    opacity: 0.9;
+    text-align: center;
+    font-size: 52px;
+    text-shadow: 2px 2px #000000;
+    color: white;
+    margin-left: 25%;
+    margin-right:25%;
+    border-radius: 24px;
+ }
+
+#one{
+    color: white;
+    background-color: rgb(0, 2, 110);
+    opacity: 0.9;
+    font-size: 24px;
+    border-radius: 16px;
+    text-align: center;
+    padding: 25px;
+ }
+
+ #two{
+    color: white;
+    background-color: rgb(0, 2, 110);
+    opacity: 0.9;
+    font-size: 24px;
+    border-radius: 16px;
+    text-align: center;
+    padding: 25px;
+ }
+ #three{
+    color: white;
+    background-color: rgb(0, 2, 110);
+    opacity: 0.9;
+    font-size: 24px;
+    border-radius: 16px;
+    text-align: center;
+    padding: 25px;
+ }
+
+
+ table{
+     padding: 75px;
+     vertical-align: middle;
+ }
+
+ #feed{
+     vertical-align: middle;
+ }
+ #feed2{
+    vertical-align: middle;
+ }
+ #feed3{
+    vertical-align: middle;
+ }
+
+ #dontxt{
+     font-size: 28px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin-top: 50px;
+     padding-top: 10px;
+     text-align: center;
+     background-color:rgb(0, 1, 66);
+    opacity: 0.9;
+     margin-left: 25px;
+     margin-right: 25px;
+     border-top-left-radius: 16px;
+     border-top-right-radius: 16px;
+     color: white;
+     font-weight: bold;
+ }
+
+ #txt{
+     font-size: 18px;
+     padding: 25px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     background-color: rgb(0, 2, 110);
+    opacity: 0.9;
+     border-bottom-left-radius: 16px;
+     border-bottom-right-radius: 16px;
+     margin-left: 25px;
+     margin-right: 25px;
+     color: white;
+ }
+
+ #spc{
+     height: 25px;
+ }
+
+
+
